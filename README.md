@@ -1,5 +1,8 @@
 # tugas_inheritance
 
+link = "https://github.com/BAGAZDWI33/latihan_inheritance.git"
+
+
 ##super class
 
 public class pegawai {
@@ -72,7 +75,7 @@ public class manager extends programmer{
 
 disana terdapat menthod setter getter
 
-//setter
+ 
     public void settunjangan(double Tunjangan){
         this.Tunjangan = Tunjangan;
     }
